@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mijkl\\source\\repos\\DMS1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57C849DF-A35B-4AA7-B557-DA3B385500E1}|DMS1\\DMS1.csproj|c:\\users\\mijkl\\source\\repos\\dms1\\dms1\\mainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C849DF-A35B-4AA7-B557-DA3B385500E1}|DMS1\\DMS1.csproj|solutionrelative:dms1\\mainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C849DF-A35B-4AA7-B557-DA3B385500E1}|DMS1\\DMS1.csproj|C:\\Users\\mijkl\\source\\repos\\DMS1\\dms1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C849DF-A35B-4AA7-B557-DA3B385500E1}|DMS1\\DMS1.csproj|solutionrelative:dms1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\mijkl\\source\\repos\\DMS1\\DMS1\\Login.cs",
+              "RelativeDocumentMoniker": "DMS1\\Login.cs",
+              "ToolTip": "C:\\Users\\mijkl\\source\\repos\\DMS1\\DMS1\\Login.cs",
+              "RelativeToolTip": "DMS1\\Login.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAvwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T22:32:44.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainScreen.cs",
+              "DocumentMoniker": "C:\\Users\\mijkl\\source\\repos\\DMS1\\DMS1\\MainScreen.cs",
+              "RelativeDocumentMoniker": "DMS1\\MainScreen.cs",
+              "ToolTip": "C:\\Users\\mijkl\\source\\repos\\DMS1\\DMS1\\MainScreen.cs",
+              "RelativeToolTip": "DMS1\\MainScreen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T22:25:04.382Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

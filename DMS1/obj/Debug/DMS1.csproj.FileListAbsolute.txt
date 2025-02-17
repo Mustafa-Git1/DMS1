@@ -1,0 +1,11 @@
+C:\Users\mijkl\source\repos\DMS1\DMS1\bin\Debug\DMS1.exe.config
+C:\Users\mijkl\source\repos\DMS1\DMS1\bin\Debug\DMS1.exe
+C:\Users\mijkl\source\repos\DMS1\DMS1\bin\Debug\DMS1.pdb
+C:\Users\mijkl\source\repos\DMS1\DMS1\obj\Debug\DMS1.csproj.AssemblyReference.cache
+C:\Users\mijkl\source\repos\DMS1\DMS1\obj\Debug\DMS1.MainScreen.resources
+C:\Users\mijkl\source\repos\DMS1\DMS1\obj\Debug\DMS1.Properties.Resources.resources
+C:\Users\mijkl\source\repos\DMS1\DMS1\obj\Debug\DMS1.csproj.GenerateResource.cache
+C:\Users\mijkl\source\repos\DMS1\DMS1\obj\Debug\DMS1.csproj.CoreCompileInputs.cache
+C:\Users\mijkl\source\repos\DMS1\DMS1\obj\Debug\DMS1.exe
+C:\Users\mijkl\source\repos\DMS1\DMS1\obj\Debug\DMS1.pdb
+C:\Users\mijkl\source\repos\DMS1\DMS1\obj\Debug\DMS1.Login.resources
